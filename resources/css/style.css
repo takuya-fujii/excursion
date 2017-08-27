@@ -1,0 +1,15 @@
+* {
+  background-color: Black;
+}
+
+h1 {
+  color: White;
+  text-align: center;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: Verdana, sans-serif;
+}
+
+video {
+  align-items: center;
+}
