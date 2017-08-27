@@ -10,9 +10,15 @@ h1 {
   font-family: Verdana, sans-serif;
 }
 
+.mainHeader {
+  color: Aquamarine;
+  text-align: center;
+  font-size: 16px;
+}
+
 video {
   align-items: center;
 }
-p video {
+p.video {
   text-align: center;
 }
