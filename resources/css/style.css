@@ -1,24 +1,39 @@
-* {
+body {
+  text-align: center;
+  font-family: Verdana, sans-serif;
   background-color: Black;
 }
 
 h1 {
-  color: White;
-  text-align: center;
+  color: white;
   font-size: 50px;
   font-weight: normal;
   font-family: Verdana, sans-serif;
 }
 
-.mainHeader {
-  color: Aquamarine;
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  color: Gray;
+  font-size: 21px;
+  font-family: Verdana, sans-serif;
+}
+
+/*
+.center {
   text-align: center;
+}*/
+
+.dllink {
+  color: Aquamarine;
   font-size: 16px;
 }
 
-video {
-  align-items: center;
-}
-p.video {
-  text-align: center;
+h3.copyright {
+  color: gray;
+  text-align: right;
 }
