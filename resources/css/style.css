@@ -13,3 +13,6 @@ h1 {
 video {
   align-items: center;
 }
+p video {
+  text-align: center;
+}
